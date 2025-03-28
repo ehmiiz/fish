@@ -1,3 +1,3 @@
 function editalacritty
-vi ~/.config/alacritty/alacritty.toml
+    vi ~/.config/alacritty/alacritty.toml
 end
