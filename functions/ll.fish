@@ -1,3 +1,3 @@
 function ll --wraps=ls
-lsd -la
+    lsd -la
 end
